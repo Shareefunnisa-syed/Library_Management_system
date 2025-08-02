@@ -6,11 +6,11 @@
 --> Book and transaction records are stored using **JSON files**, eliminating the need for a database.  
 --> The goal is to simulate real-time library management in an efficient and lightweight manner suitable for small-scale environments.
  ✅ Key Features:
-### 👨‍💼 Admin Panel:
-- Add new books to inventory  --- Remove existing books  ---- View complete book list  
-### 👤 User Interface:
+----> Admin Panel:
+- Add new books to inventory  --- Remove existing books  ---- View complete book list
+----> User Interface:
 - View available books  - Borrow books based on availability  - Return borrowed books  - View list of borrowed books by user  
-## 💻 Technologies Used:
+---- > Technologies Used:
 - Python 3.x  - File Handling using `json` module  - Console-based interaction  - Python data structures: lists & dictionaries  
 
 
